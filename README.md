@@ -6,6 +6,7 @@
 
 ## 講義資料
 
+* [HTML-Day-1](https://github.com/catal/Catal-Textbook/blob/master/html-day-1)
 * [PHP-Day-1(BBS)](https://github.com/catal/Catal-Textbook/blob/master/php-day-1)
 * [PHP-Day-2(DB連携)](https://github.com/catal/Catal-Textbook/blob/master/php-day-2)
 * [PHP-Day-3(CakePHP)](https://github.com/catal/Catal-Textbook/blob/master/php-day-3)

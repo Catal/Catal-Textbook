@@ -9,11 +9,8 @@
 * [PHP-Day-1(BBS)](https://github.com/catal/Catal-Textbook/blob/master/php-day-1)
 * [PHP-Day-2(DB連携)](https://github.com/catal/Catal-Textbook/blob/master/php-day-2)
 * [PHP-Day-3(CakePHP)](https://github.com/catal/Catal-Textbook/blob/master/php-day-3)
-
 * [DB](https://github.com/catal/Catal-Textbook/blob/master/db-day-1)
-
 * [Javascirpt](https://github.com/catal/Catal-Textbook/blob/master/js-day-1)
-
 
 ## 参考資料
 
